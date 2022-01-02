@@ -1,0 +1,7 @@
+---
+#
+# Template Theme
+#
+template:
+  primary-color: "#228B22"
+  a: "should fail"
