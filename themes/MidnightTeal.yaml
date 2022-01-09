@@ -41,7 +41,6 @@ Midnight Teal:
   ### Cards ###
   ha-card-border-radius: 8px
   masonry-view-card-margin: 6px
-  ha-card-background: "#135761"
   paper-listbox-background-color: var(--primary-background-color)
 #
   ### Toggles ###
@@ -75,6 +74,8 @@ Midnight Teal:
     dark:
       primary-background-color: "#062129"
       app-header-background-color: "#1c8290"
+      ha-card-background: "#0d3f46"
     light:
       primary-background-color: "#0E4149"
       app-header-background-color: "#24A3B7"
+      ha-card-background: "#1a7683"
