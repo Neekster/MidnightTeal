@@ -1,11 +1,11 @@
 # Midnight Teal Theme
 
 ## Lovelace Dashboard
-#### There are slight differences between the light and dark modes.
-Light Mode
-![image](https://user-images.githubusercontent.com/58367045/148667122-5bcca802-79e7-429a-b582-1a92b593cb46.png)
+#### The Midnight Teal theme comes in two different varieties; dark and light. If you want the true midnight effect, select dark mode. 
+#### Light Mode
+![image](https://user-images.githubusercontent.com/58367045/148668482-71e80713-3fe0-4153-9b53-ce77c053057b.png)
 
-Dark Mode
+#### Dark Mode
 ![image](https://user-images.githubusercontent.com/58367045/148667117-a56bc26b-f922-41e1-8189-bd76f7cab250.png)
 
 ## History
