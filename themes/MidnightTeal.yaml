@@ -2,16 +2,15 @@ Midnight Teal:
   ### Main Interface Colors ###
   primary-color: "#197280"
   light-primary-color: "#2ABED5"
-  primary-background-color: "#0E4149"
   secondary-background-color: "#104b54"
   accent-color: "#00aec9"
-  app-header-background-color: "#24A3B7"
 #
   ### Text ###
   primary-text-color: "#FFFFFF"
   secondary-text-color: "#68e1f2"
   disabled-text-color: "#1a383d"
   paper-input-container-color: "#D4F2F7"
+  text-dark-color: var(--secondary-text-color)
 #
   ### Sidebar Menu ###
   sidebar-icon-color: "#3E9296"
@@ -27,11 +26,12 @@ Midnight Teal:
   state-icon-unavailable-color: var(--disabled-text-color)
 #
   ### Sliders ###
-  paper-slider-knob-color: "#007AFF"
-  paper-slider-knob-start-color: var(--paper-slider-knob-color)
-  paper-slider-pin-color: var(--paper-slider-knob-color)
-  paper-slider-active-color: var(--paper-slider-knob-color)
-  paper-slider-secondary-color: var(--light-primary-color)
+  slider-knob-color: "#007AFF"
+  slider-knob-start-color: var(--paper-slider-knob-color)
+  slider-pin-color: var(--paper-slider-knob-color)
+  slider-active-color: var(--paper-slider-knob-color)
+  slider-secondary-color: var(--light-primary-color)
+
 #
   ### Labels ###
   label-badge-background-color: "#1E2747"
@@ -41,7 +41,7 @@ Midnight Teal:
   ### Cards ###
   ha-card-border-radius: 8px
   masonry-view-card-margin: 6px
-  ha-card-background: "#16626e"
+  ha-card-background: "#135761"
   paper-listbox-background-color: var(--primary-background-color)
 #
   ### Toggles ###
@@ -68,3 +68,13 @@ Midnight Teal:
   ### Dialog ###
   dialog-background-color: "#C83C26"
   mdc-theme-surface: "#2F626A"
+  more-info-header-background: var(--app-header-background-color)
+#
+  ### Dark/Light Theme ###
+  modes:
+    dark:
+      primary-background-color: "#062129"
+      app-header-background-color: "#1c8290"
+    light:
+      primary-background-color: "#0E4149"
+      app-header-background-color: "#24A3B7"
