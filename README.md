@@ -1,15 +1,17 @@
 # Midnight Teal Theme
 
-## Screenshots
+## Lovelace Dashboard
+#### There are slight differences between the light and dark modes.
+Light Mode
+![image](https://user-images.githubusercontent.com/58367045/148667122-5bcca802-79e7-429a-b582-1a92b593cb46.png)
 
-### Lovelace Dashboard
-![image](https://user-images.githubusercontent.com/58367045/147864065-3d2f80d5-0826-4bf4-b908-04355d25a651.png)
-![image](https://user-images.githubusercontent.com/58367045/147864406-5c14c3ca-801e-43f9-aa30-655afce7727e.png)
+Dark Mode
+![image](https://user-images.githubusercontent.com/58367045/148667117-a56bc26b-f922-41e1-8189-bd76f7cab250.png)
 
-### History
+## History
 ![image](https://user-images.githubusercontent.com/58367045/147864421-3028d86d-688a-4f1d-a682-de3d0c55753f.png)
 
-### Settings
+## Settings
 ![image](https://user-images.githubusercontent.com/58367045/147864075-0d3852e6-abdc-44e8-8d91-260d96c5c1c2.png)
 
 ## Installation
@@ -26,8 +28,8 @@ frontend:
 ### HACS
 
 1. Go to the Community Store.
-2. Search for `Template`.
-3. Navigate to `Template` theme.
+2. Search for `Midnight Teal`.
+3. Navigate to `Midnight Teal` theme.
 4. Press `Install`.
 
 ### Manual
