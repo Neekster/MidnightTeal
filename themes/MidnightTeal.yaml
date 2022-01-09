@@ -2,12 +2,10 @@ Midnight Teal:
   ### Main Interface Colors ###
   primary-color: "#197280"
   light-primary-color: "#2ABED5"
-  secondary-background-color: "#104b54"
   accent-color: "#00aec9"
 #
   ### Text ###
   primary-text-color: "#FFFFFF"
-  secondary-text-color: "#68e1f2"
   disabled-text-color: "#1a383d"
   paper-input-container-color: "#D4F2F7"
   text-dark-color: var(--secondary-text-color)
@@ -15,10 +13,7 @@ Midnight Teal:
   ### Sidebar Menu ###
   sidebar-icon-color: "#3E9296"
   sidebar-text-color: "#ffffff"
-  sidebar-selected-background-color: "#A4E3ED"
-  sidebar-selected-icon-color: "#3E51B5"
   sidebar-selected-text-color: "#ffffff"
-  sidebar-background-color: "#000000"
 #
   ### States and Badges ###
   state-icon-color: "##00b3cf"
@@ -39,7 +34,6 @@ Midnight Teal:
   label-badge-red: "#D7432C"
 #
   ### Cards ###
-  ha-card-border-radius: 8px
   masonry-view-card-margin: 6px
   paper-listbox-background-color: var(--primary-background-color)
 #
@@ -72,10 +66,36 @@ Midnight Teal:
   ### Dark/Light Theme ###
   modes:
     dark:
+      ### Main Interface Colors ###
       primary-background-color: "#062129"
+      secondary-background-color: "#03161c"
+      secondary-text-color: "#68e1f2"
       app-header-background-color: "#1c8290"
+#
+      ### Cards ###
       ha-card-background: "#0d3f46"
+      ha-card-border-radius: 4px
+#
+      ### Sidebar Menu ###
+      sidebar-icon-color: "#3E9296"
+      sidebar-selected-icon-color: "#963e89"
+      sidebar-background-color: "#000000"
+
+
+
     light:
-      primary-background-color: "#0E4149"
-      app-header-background-color: "#24A3B7"
-      ha-card-background: "#1a7683"
+      ### Main Interface Colors ###
+      primary-background-color: "#80c0c0"
+      secondary-background-color: "#56abab"
+      secondary-text-color: "#ddeeee"
+      app-header-background-color: "#4f9e9e"
+#
+      ### Cards ###
+      ha-card-background: "#64b2b2"
+      ha-card-border-radius: 9px
+
+#
+      ### Sidebar Menu ###
+      sidebar-icon-color: "#64b2b2"
+      sidebar-selected-icon-color: "#b264aa"
+      sidebar-background-color: "#1e3939" 
