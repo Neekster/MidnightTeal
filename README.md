@@ -38,12 +38,12 @@ Clone this repository in your existing (or create it) `themes/` folder.
 
 ```bash
 cd themes/
-git clone https://github.com/Neekster/MidnightTeal/blob/master/themes/Darkteal.yaml
+git clone https://github.com/Neekster/MidnightTeal/blob/master/themes/MidnightTeal.yaml
 ```
 
 Or using submodules:
 
 ```bash
 cd themes/
-git submodule add https://github.com/Neekster/MidnightTeal/blob/master/themes/Darkteal.yaml
+git submodule add https://github.com/Neekster/MidnightTeal/blob/master/themes/MidnightTeal.yaml
 ```
