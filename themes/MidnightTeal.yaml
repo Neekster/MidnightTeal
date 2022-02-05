@@ -1,6 +1,5 @@
 Midnight Teal:
   ### Main Interface Colors ###
-  primary-color: "#26abc0"
   accent-color: "#00aec9"
 #
   ### Text ###
@@ -14,7 +13,6 @@ Midnight Teal:
   sidebar-selected-text-color: "#ffffff"
 #
   ### States and Badges ###
-  state-icon-color: "#00b3cf"
   state-icon-active-color: "#FBCD41"
   state-icon-unavailable-color: var(--disabled-text-color)
 #
@@ -68,10 +66,12 @@ Midnight Teal:
       secondary-background-color: "#03161c"
       secondary-text-color: "#68e1f2"
       app-header-background-color: "#1c8290"
+      primary-color: "#26abc0"
 #
       ### Cards ###
       ha-card-background: "#0d3f46"
       ha-card-border-radius: 4px
+      state-icon-color: "#00b3cf"
 #
       ### Sidebar Menu ###
       sidebar-icon-color: "#3E9296"
@@ -80,6 +80,7 @@ Midnight Teal:
 #
     light:
       ### Main Interface Colors ###
+      primary-color: "#197280"
       primary-background-color: "#80c0c0"
       secondary-background-color: "#56abab"
       secondary-text-color: "#ddeeee"
@@ -88,7 +89,7 @@ Midnight Teal:
       ### Cards ###
       ha-card-background: "#64b2b2"
       ha-card-border-radius: 9px
-
+      state-icon-color: "#FFFFFF"
 #
       ### Sidebar Menu ###
       sidebar-icon-color: "#64b2b2"
