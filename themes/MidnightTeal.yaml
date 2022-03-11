@@ -30,13 +30,7 @@ Midnight Teal:
 #
   ### Cards ###
   masonry-view-card-margin: 6px
-  paper-listbox-background-color: var(--primary-background-color)
-#
-  ### Toggles ###
-  paper-toggle-button-checked-button-color: "#FCFCFC"
-  paper-toggle-button-checked-bar-color: "#4DA3FF"
-  paper-toggle-button-unchecked-button-color: var(--paper-toggle-button-checked-button-color)
-  paper-toggle-button-unchecked-bar-color: "#303F79"
+  mdc-listbox-background-color: var(--primary-background-color)
 #
   ### Table row ###
   table-row-background-color: var(--primary-background-color)
